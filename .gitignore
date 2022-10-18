@@ -1,0 +1,6 @@
+.env
+ONTAPSELECT9.11.1GA.ova
+.terraform*
+terraform.tfstate*
+
+.DS_Store
