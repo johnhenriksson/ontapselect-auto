@@ -48,4 +48,10 @@ TF_VAR_deploy_searchDomains="virtjo.local"
 
 6. Now you've deployed the ONTAP Select Deploy instance and you can browse to the IP you specified in the variables.
 
+![ONTAP Deploy login prompt](img/ontapdeploy1.png)
+
 Read more about ONTAP Select on https://docs.netapp.com/us-en/ontap-select/
+
+You can now proceed to push your ONTAP Select nodes from the web interface
+
+![ONTAP Deploy start screen](img/ontapdeploy2.png)
